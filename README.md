@@ -2,7 +2,7 @@
 Sword of Holy King Lothric (Dark Souls III mod)
 
 
-//Installation -
+Installation: 
 Copy and paste the mod folder into the game's directory (Dark Souls III\Game).
 
 Includes 2 variants - Moveset and Non-Moveset
