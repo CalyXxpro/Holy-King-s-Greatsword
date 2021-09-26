@@ -1,0 +1,25 @@
+===v1.0.3===
+CHANGELOG:
+#Moveset Variant : 
+-Fixed animations with arm twisting issues.
+
+===v1.0.2===
+CHANGELOG:
+#Moveset Variant:
+-Increased damage of 2H charged R2 attack and reduced poise damage per damage.
+-Increased the size of the hitbox of the 2H Charged R2
+-Fixed animations with broken thumb rotations.
+
+===v1.0.1====
+CHANGELOG:
+Moveset Variant :
+- Sped up dodge and running animations to match the vanilla game animation speed.
+- Reduced invincibility frames of all dodges to match vanilla game dodge frames.
+- Fixed an issue where 2H Charged R2 would only hit on hits 1 and 3 or hits 2 and 4 and skip the rest.
+- 2H Charged R2 damage values and stamina consumption values have been adjusted per swing.
+- Increased 2H Charged R2 Blast damage.
+- Added a missing OnHitVfx for 2H Charged R2.
+
+General :
+- Included modengine and Hoodiepatcher in the mod's zip file.
+- Included a README file with instructions for downloading and obtaining the weapon in-game.
